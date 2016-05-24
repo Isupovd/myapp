@@ -1,18 +1,8 @@
 require 'test_helper'
 
 class TheoryControllerTest < ActionController::TestCase
-  test "should get lesson1" do
-    get :lesson1
-    assert_response :success
-  end
-
-  test "should get lesson2" do
-    get :lesson2
-    assert_response :success
-  end
-
-  test "should get lesson3" do
-    get :lesson3
+  test "should get lesson4" do
+    get :lesson4
     assert_response :success
   end
 

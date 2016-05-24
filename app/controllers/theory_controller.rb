@@ -1,10 +1,4 @@
 class TheoryController < ApplicationController
-  def lesson1
-  end
-
-  def lesson2
-  end
-
-  def lesson3
+  def lesson4
   end
 end
