@@ -1,10 +1,25 @@
 class TheoryController < ApplicationController
-  def lesson7
+  def lesson10
   end
 
-  def lesson8
+  def lesson11
   end
 
-  def lesson9
+  def lesson12
+  end
+
+  def lesson13
+  end
+
+  def lesson14
+  end
+
+  def lesson15
+  end
+
+  def lesson16
+  end
+
+  def lesson17
   end
 end

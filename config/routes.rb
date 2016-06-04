@@ -1,4 +1,12 @@
 Diplom::Application.routes.draw do
+  get "theory/lesson10"
+  get "theory/lesson11"
+  get "theory/lesson12"
+  get "theory/lesson13"
+  get "theory/lesson14"
+  get "theory/lesson15"
+  get "theory/lesson16"
+  get "theory/lesson17"
   get "theory/lesson7"
   get "theory/lesson8"
   get "theory/lesson9"
