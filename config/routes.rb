@@ -1,4 +1,5 @@
 Diplom::Application.routes.draw do
+  get "laboratory_work/lab12"
   get "laboratory_work/lab3"
   get "laboratory_work/lab4"
   get "laboratory_work/lab5"
